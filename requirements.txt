@@ -22,3 +22,4 @@ SQLAlchemy>=0.8.4,!=0.9.5,<=0.9.99
 WSME>=0.6
 python-mistralclient>=0.1
 keystonemiddleware>=1.0.0
+docker-py>=0.5.1
